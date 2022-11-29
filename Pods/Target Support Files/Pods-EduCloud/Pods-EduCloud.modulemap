@@ -1,0 +1,6 @@
+framework module Pods_EduCloud {
+  umbrella header "Pods-EduCloud-umbrella.h"
+
+  export *
+  module * { export * }
+}

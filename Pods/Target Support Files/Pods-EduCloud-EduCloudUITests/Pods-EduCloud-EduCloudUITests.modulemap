@@ -1,0 +1,6 @@
+framework module Pods_EduCloud_EduCloudUITests {
+  umbrella header "Pods-EduCloud-EduCloudUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
